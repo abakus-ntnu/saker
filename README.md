@@ -24,6 +24,9 @@ Se [CONTRIBUTING](https://github.com/abakus-ntnu/saker/blob/master/CONTRIBUTING.
 
 Se [Mal for ny diskusjon](https://github.com/abakus-ntnu/saker/discussions/2) for et eksempel på hvordan du kan introdusere en ny diskusjon.
 
+### Hjelp med å formulere eller fremme din sak? 👩‍🏫
+Har du en sak, men er usikker på hvordan du skal gå frem? Eller vil du ha hjelp med å formulere et første utkast kan du sende oss en mail på [saker@abakus.no](mailto:saker@abakus.no) så skal noen fra HS/backup hjelpe deg i gang!
+
 ## Motivasjonen bak Abakus Saker 💡
 
 Abakus saker, som forum, har blitt opprettet for å gi en ekstra åpen, enkel og effektiv plattform hvor abakuler kan diskutere og orientere seg om saker. Forumet er ment som et _tilleggsverktøy_ til de tradisjonelle diskusjonskveldene og generalforsamlingene Abakus har på sitt årshjul. Håpet er at enda flere abakuler kan få sine saker opp og frem. Det kan virke skummelt å foreslå en sak til diskusjonskveld eller generalforsamling uten input fra andre, og kan det være greit å lufte ideen her først.
