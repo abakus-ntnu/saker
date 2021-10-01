@@ -36,6 +36,6 @@ I tillegg håper vi forumet kan virke som et **arkiv** og **hjemsted** for forsl
 I figuren kan en se en tenkt saksbehandlingsprosess for tre ulike saker. Hver rød node representerer en uke i Abakus, og det er lagt inn en fiktiv Diskusjonskveld i uke 6, samt en Generalforsamling i uke 8. Visjonen er at sakene er bedre forberedt og gjennomtenkt når de kommer til de store forsamlingene. Da kan vi forhåpentligvis ta de viktige diskusjonene i plenum. I tillegg er det tenkt at saker som ikke trenger gjennomslag på generalforsamling kan tas fortløpende av Hovedstyret/Ledelsen/Fondsstyret/Komiteer eller andre aktører.
 
 <p align="center">
-  <img src="https://i.imgur.com/MtrtgRG.png" />
+  <img src="https://raw.githubusercontent.com/abakus-ntnu/saker/images/graph.svg" />
   <i> Eksempel på hvordan tre ulike saker kan bevege seg gjennom 2 måneder i Abakus.</i>
 </p>
